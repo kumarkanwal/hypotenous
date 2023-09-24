@@ -1,0 +1,25 @@
+.inline{
+    display:inline-block;
+    
+}
+.ipt_h{
+    font-weight: 700;
+   color: rgb(17, 113, 117);
+}
+#container{
+    width: 200px;
+    border: 2px solid;
+    height: 25px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.ipt{
+    border: 2px solid ;
+    border-radius: 5px;
+    height: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
